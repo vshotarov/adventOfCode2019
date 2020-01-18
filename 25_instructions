@@ -1,0 +1,2536 @@
+north
+take polygon
+north
+take astrolabe
+south
+south
+west
+take hologram
+north
+north
+take prime number
+south
+east
+take space law space brochure
+west
+south
+east
+south
+east
+take weather machine
+west
+south
+take manifold
+west
+take mouse
+north
+north
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+Trying ('space law space brochure', 'manifold')
+east
+drop space law space brochure
+drop manifold
+take space law space brochure
+take polygon
+Trying ('space law space brochure', 'polygon')
+east
+drop space law space brochure
+drop polygon
+take space law space brochure
+take weather machine
+Trying ('space law space brochure', 'weather machine')
+east
+drop space law space brochure
+drop weather machine
+take space law space brochure
+take astrolabe
+Trying ('space law space brochure', 'astrolabe')
+east
+drop space law space brochure
+drop astrolabe
+take space law space brochure
+take prime number
+Trying ('space law space brochure', 'prime number')
+east
+drop space law space brochure
+drop prime number
+take space law space brochure
+take hologram
+Trying ('space law space brochure', 'hologram')
+east
+drop space law space brochure
+drop hologram
+take space law space brochure
+take mouse
+Trying ('space law space brochure', 'mouse')
+east
+drop space law space brochure
+drop mouse
+take manifold
+take polygon
+Trying ('manifold', 'polygon')
+east
+drop manifold
+drop polygon
+take manifold
+take weather machine
+Trying ('manifold', 'weather machine')
+east
+drop manifold
+drop weather machine
+take manifold
+take astrolabe
+Trying ('manifold', 'astrolabe')
+east
+drop manifold
+drop astrolabe
+take manifold
+take prime number
+Trying ('manifold', 'prime number')
+east
+drop manifold
+drop prime number
+take manifold
+take hologram
+Trying ('manifold', 'hologram')
+east
+drop manifold
+drop hologram
+take manifold
+take mouse
+Trying ('manifold', 'mouse')
+east
+drop manifold
+drop mouse
+take polygon
+take weather machine
+Trying ('polygon', 'weather machine')
+east
+drop polygon
+drop weather machine
+take polygon
+take astrolabe
+Trying ('polygon', 'astrolabe')
+east
+drop polygon
+drop astrolabe
+take polygon
+take prime number
+Trying ('polygon', 'prime number')
+east
+drop polygon
+drop prime number
+take polygon
+take hologram
+Trying ('polygon', 'hologram')
+east
+drop polygon
+drop hologram
+take polygon
+take mouse
+Trying ('polygon', 'mouse')
+east
+drop polygon
+drop mouse
+take weather machine
+take astrolabe
+Trying ('weather machine', 'astrolabe')
+east
+drop weather machine
+drop astrolabe
+take weather machine
+take prime number
+Trying ('weather machine', 'prime number')
+east
+drop weather machine
+drop prime number
+take weather machine
+take hologram
+Trying ('weather machine', 'hologram')
+east
+drop weather machine
+drop hologram
+take weather machine
+take mouse
+Trying ('weather machine', 'mouse')
+east
+drop weather machine
+drop mouse
+take astrolabe
+take prime number
+Trying ('astrolabe', 'prime number')
+east
+drop astrolabe
+drop prime number
+take astrolabe
+take hologram
+Trying ('astrolabe', 'hologram')
+east
+drop astrolabe
+drop hologram
+take astrolabe
+take mouse
+Trying ('astrolabe', 'mouse')
+east
+drop astrolabe
+drop mouse
+take prime number
+take hologram
+Trying ('prime number', 'hologram')
+east
+drop prime number
+drop hologram
+take prime number
+take mouse
+Trying ('prime number', 'mouse')
+east
+drop prime number
+drop mouse
+take hologram
+take mouse
+Trying ('hologram', 'mouse')
+east
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+Trying ('space law space brochure', 'manifold', 'polygon')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+take space law space brochure
+take manifold
+take weather machine
+Trying ('space law space brochure', 'manifold', 'weather machine')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+take space law space brochure
+take manifold
+take astrolabe
+Trying ('space law space brochure', 'manifold', 'astrolabe')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+take space law space brochure
+take manifold
+take prime number
+Trying ('space law space brochure', 'manifold', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop prime number
+take space law space brochure
+take manifold
+take hologram
+Trying ('space law space brochure', 'manifold', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop hologram
+take space law space brochure
+take manifold
+take mouse
+Trying ('space law space brochure', 'manifold', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+Trying ('space law space brochure', 'polygon', 'weather machine')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+take space law space brochure
+take polygon
+take astrolabe
+Trying ('space law space brochure', 'polygon', 'astrolabe')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+take space law space brochure
+take polygon
+take prime number
+Trying ('space law space brochure', 'polygon', 'prime number')
+east
+drop space law space brochure
+drop polygon
+drop prime number
+take space law space brochure
+take polygon
+take hologram
+Trying ('space law space brochure', 'polygon', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop hologram
+take space law space brochure
+take polygon
+take mouse
+Trying ('space law space brochure', 'polygon', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop mouse
+take space law space brochure
+take weather machine
+take astrolabe
+Trying ('space law space brochure', 'weather machine', 'astrolabe')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+take space law space brochure
+take weather machine
+take prime number
+Trying ('space law space brochure', 'weather machine', 'prime number')
+east
+drop space law space brochure
+drop weather machine
+drop prime number
+take space law space brochure
+take weather machine
+take hologram
+Trying ('space law space brochure', 'weather machine', 'hologram')
+east
+drop space law space brochure
+drop weather machine
+drop hologram
+take space law space brochure
+take weather machine
+take mouse
+Trying ('space law space brochure', 'weather machine', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop mouse
+take space law space brochure
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop astrolabe
+drop prime number
+take space law space brochure
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop astrolabe
+drop hologram
+take space law space brochure
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop astrolabe
+drop mouse
+take space law space brochure
+take prime number
+take hologram
+Trying ('space law space brochure', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop prime number
+drop hologram
+take space law space brochure
+take prime number
+take mouse
+Trying ('space law space brochure', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop prime number
+drop mouse
+take space law space brochure
+take hologram
+take mouse
+Trying ('space law space brochure', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop hologram
+drop mouse
+take manifold
+take polygon
+take weather machine
+Trying ('manifold', 'polygon', 'weather machine')
+east
+drop manifold
+drop polygon
+drop weather machine
+take manifold
+take polygon
+take astrolabe
+Trying ('manifold', 'polygon', 'astrolabe')
+east
+drop manifold
+drop polygon
+drop astrolabe
+take manifold
+take polygon
+take prime number
+Trying ('manifold', 'polygon', 'prime number')
+east
+drop manifold
+drop polygon
+drop prime number
+take manifold
+take polygon
+take hologram
+Trying ('manifold', 'polygon', 'hologram')
+east
+drop manifold
+drop polygon
+drop hologram
+take manifold
+take polygon
+take mouse
+Trying ('manifold', 'polygon', 'mouse')
+east
+drop manifold
+drop polygon
+drop mouse
+take manifold
+take weather machine
+take astrolabe
+Trying ('manifold', 'weather machine', 'astrolabe')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+take manifold
+take weather machine
+take prime number
+Trying ('manifold', 'weather machine', 'prime number')
+east
+drop manifold
+drop weather machine
+drop prime number
+take manifold
+take weather machine
+take hologram
+Trying ('manifold', 'weather machine', 'hologram')
+east
+drop manifold
+drop weather machine
+drop hologram
+take manifold
+take weather machine
+take mouse
+Trying ('manifold', 'weather machine', 'mouse')
+east
+drop manifold
+drop weather machine
+drop mouse
+take manifold
+take astrolabe
+take prime number
+Trying ('manifold', 'astrolabe', 'prime number')
+east
+drop manifold
+drop astrolabe
+drop prime number
+take manifold
+take astrolabe
+take hologram
+Trying ('manifold', 'astrolabe', 'hologram')
+east
+drop manifold
+drop astrolabe
+drop hologram
+take manifold
+take astrolabe
+take mouse
+Trying ('manifold', 'astrolabe', 'mouse')
+east
+drop manifold
+drop astrolabe
+drop mouse
+take manifold
+take prime number
+take hologram
+Trying ('manifold', 'prime number', 'hologram')
+east
+drop manifold
+drop prime number
+drop hologram
+take manifold
+take prime number
+take mouse
+Trying ('manifold', 'prime number', 'mouse')
+east
+drop manifold
+drop prime number
+drop mouse
+take manifold
+take hologram
+take mouse
+Trying ('manifold', 'hologram', 'mouse')
+east
+drop manifold
+drop hologram
+drop mouse
+take polygon
+take weather machine
+take astrolabe
+Trying ('polygon', 'weather machine', 'astrolabe')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+take polygon
+take weather machine
+take prime number
+Trying ('polygon', 'weather machine', 'prime number')
+east
+drop polygon
+drop weather machine
+drop prime number
+take polygon
+take weather machine
+take hologram
+Trying ('polygon', 'weather machine', 'hologram')
+east
+drop polygon
+drop weather machine
+drop hologram
+take polygon
+take weather machine
+take mouse
+Trying ('polygon', 'weather machine', 'mouse')
+east
+drop polygon
+drop weather machine
+drop mouse
+take polygon
+take astrolabe
+take prime number
+Trying ('polygon', 'astrolabe', 'prime number')
+east
+drop polygon
+drop astrolabe
+drop prime number
+take polygon
+take astrolabe
+take hologram
+Trying ('polygon', 'astrolabe', 'hologram')
+east
+drop polygon
+drop astrolabe
+drop hologram
+take polygon
+take astrolabe
+take mouse
+Trying ('polygon', 'astrolabe', 'mouse')
+east
+drop polygon
+drop astrolabe
+drop mouse
+take polygon
+take prime number
+take hologram
+Trying ('polygon', 'prime number', 'hologram')
+east
+drop polygon
+drop prime number
+drop hologram
+take polygon
+take prime number
+take mouse
+Trying ('polygon', 'prime number', 'mouse')
+east
+drop polygon
+drop prime number
+drop mouse
+take polygon
+take hologram
+take mouse
+Trying ('polygon', 'hologram', 'mouse')
+east
+drop polygon
+drop hologram
+drop mouse
+take weather machine
+take astrolabe
+take prime number
+Trying ('weather machine', 'astrolabe', 'prime number')
+east
+drop weather machine
+drop astrolabe
+drop prime number
+take weather machine
+take astrolabe
+take hologram
+Trying ('weather machine', 'astrolabe', 'hologram')
+east
+drop weather machine
+drop astrolabe
+drop hologram
+take weather machine
+take astrolabe
+take mouse
+Trying ('weather machine', 'astrolabe', 'mouse')
+east
+drop weather machine
+drop astrolabe
+drop mouse
+take weather machine
+take prime number
+take hologram
+Trying ('weather machine', 'prime number', 'hologram')
+east
+drop weather machine
+drop prime number
+drop hologram
+take weather machine
+take prime number
+take mouse
+Trying ('weather machine', 'prime number', 'mouse')
+east
+drop weather machine
+drop prime number
+drop mouse
+take weather machine
+take hologram
+take mouse
+Trying ('weather machine', 'hologram', 'mouse')
+east
+drop weather machine
+drop hologram
+drop mouse
+take astrolabe
+take prime number
+take hologram
+Trying ('astrolabe', 'prime number', 'hologram')
+east
+drop astrolabe
+drop prime number
+drop hologram
+take astrolabe
+take prime number
+take mouse
+Trying ('astrolabe', 'prime number', 'mouse')
+east
+drop astrolabe
+drop prime number
+drop mouse
+take astrolabe
+take hologram
+take mouse
+Trying ('astrolabe', 'hologram', 'mouse')
+east
+drop astrolabe
+drop hologram
+drop mouse
+take prime number
+take hologram
+take mouse
+Trying ('prime number', 'hologram', 'mouse')
+east
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+take space law space brochure
+take manifold
+take polygon
+take prime number
+Trying ('space law space brochure', 'manifold', 'polygon', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop prime number
+take space law space brochure
+take manifold
+take polygon
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+take space law space brochure
+take manifold
+take weather machine
+take prime number
+Trying ('space law space brochure', 'manifold', 'weather machine', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop prime number
+take space law space brochure
+take manifold
+take weather machine
+take hologram
+Trying ('space law space brochure', 'manifold', 'weather machine', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop hologram
+take space law space brochure
+take manifold
+take weather machine
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop mouse
+take space law space brochure
+take manifold
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'manifold', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+drop prime number
+take space law space brochure
+take manifold
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'manifold', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+drop hologram
+take space law space brochure
+take manifold
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'manifold', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+drop mouse
+take space law space brochure
+take manifold
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+take space law space brochure
+take polygon
+take weather machine
+take prime number
+Trying ('space law space brochure', 'polygon', 'weather machine', 'prime number')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop prime number
+take space law space brochure
+take polygon
+take weather machine
+take hologram
+Trying ('space law space brochure', 'polygon', 'weather machine', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop hologram
+take space law space brochure
+take polygon
+take weather machine
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop mouse
+take space law space brochure
+take polygon
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'polygon', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+drop prime number
+take space law space brochure
+take polygon
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'polygon', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+drop hologram
+take space law space brochure
+take polygon
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'polygon', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+drop mouse
+take space law space brochure
+take polygon
+take prime number
+take hologram
+Trying ('space law space brochure', 'polygon', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop prime number
+drop hologram
+take space law space brochure
+take polygon
+take prime number
+take mouse
+Trying ('space law space brochure', 'polygon', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop prime number
+drop mouse
+take space law space brochure
+take polygon
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop hologram
+drop mouse
+take space law space brochure
+take weather machine
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'weather machine', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+drop prime number
+take space law space brochure
+take weather machine
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'weather machine', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+drop hologram
+take space law space brochure
+take weather machine
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'weather machine', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+drop mouse
+take space law space brochure
+take weather machine
+take prime number
+take hologram
+Trying ('space law space brochure', 'weather machine', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop weather machine
+drop prime number
+drop hologram
+take space law space brochure
+take weather machine
+take prime number
+take mouse
+Trying ('space law space brochure', 'weather machine', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop prime number
+drop mouse
+take space law space brochure
+take weather machine
+take hologram
+take mouse
+Trying ('space law space brochure', 'weather machine', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop hologram
+drop mouse
+take space law space brochure
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take polygon
+take weather machine
+take astrolabe
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+take manifold
+take polygon
+take weather machine
+take prime number
+Trying ('manifold', 'polygon', 'weather machine', 'prime number')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+take manifold
+take polygon
+take weather machine
+take hologram
+Trying ('manifold', 'polygon', 'weather machine', 'hologram')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop hologram
+take manifold
+take polygon
+take weather machine
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'mouse')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop mouse
+take manifold
+take polygon
+take astrolabe
+take prime number
+Trying ('manifold', 'polygon', 'astrolabe', 'prime number')
+east
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+take manifold
+take polygon
+take astrolabe
+take hologram
+Trying ('manifold', 'polygon', 'astrolabe', 'hologram')
+east
+drop manifold
+drop polygon
+drop astrolabe
+drop hologram
+take manifold
+take polygon
+take astrolabe
+take mouse
+Trying ('manifold', 'polygon', 'astrolabe', 'mouse')
+east
+drop manifold
+drop polygon
+drop astrolabe
+drop mouse
+take manifold
+take polygon
+take prime number
+take hologram
+Trying ('manifold', 'polygon', 'prime number', 'hologram')
+east
+drop manifold
+drop polygon
+drop prime number
+drop hologram
+take manifold
+take polygon
+take prime number
+take mouse
+Trying ('manifold', 'polygon', 'prime number', 'mouse')
+east
+drop manifold
+drop polygon
+drop prime number
+drop mouse
+take manifold
+take polygon
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'hologram', 'mouse')
+east
+drop manifold
+drop polygon
+drop hologram
+drop mouse
+take manifold
+take weather machine
+take astrolabe
+take prime number
+Trying ('manifold', 'weather machine', 'astrolabe', 'prime number')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+take manifold
+take weather machine
+take astrolabe
+take hologram
+Trying ('manifold', 'weather machine', 'astrolabe', 'hologram')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+drop hologram
+take manifold
+take weather machine
+take astrolabe
+take mouse
+Trying ('manifold', 'weather machine', 'astrolabe', 'mouse')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+drop mouse
+take manifold
+take weather machine
+take prime number
+take hologram
+Trying ('manifold', 'weather machine', 'prime number', 'hologram')
+east
+drop manifold
+drop weather machine
+drop prime number
+drop hologram
+take manifold
+take weather machine
+take prime number
+take mouse
+Trying ('manifold', 'weather machine', 'prime number', 'mouse')
+east
+drop manifold
+drop weather machine
+drop prime number
+drop mouse
+take manifold
+take weather machine
+take hologram
+take mouse
+Trying ('manifold', 'weather machine', 'hologram', 'mouse')
+east
+drop manifold
+drop weather machine
+drop hologram
+drop mouse
+take manifold
+take astrolabe
+take prime number
+take hologram
+Trying ('manifold', 'astrolabe', 'prime number', 'hologram')
+east
+drop manifold
+drop astrolabe
+drop prime number
+drop hologram
+take manifold
+take astrolabe
+take prime number
+take mouse
+Trying ('manifold', 'astrolabe', 'prime number', 'mouse')
+east
+drop manifold
+drop astrolabe
+drop prime number
+drop mouse
+take manifold
+take astrolabe
+take hologram
+take mouse
+Trying ('manifold', 'astrolabe', 'hologram', 'mouse')
+east
+drop manifold
+drop astrolabe
+drop hologram
+drop mouse
+take manifold
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'prime number', 'hologram', 'mouse')
+east
+drop manifold
+drop prime number
+drop hologram
+drop mouse
+take polygon
+take weather machine
+take astrolabe
+take prime number
+Trying ('polygon', 'weather machine', 'astrolabe', 'prime number')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+take polygon
+take weather machine
+take astrolabe
+take hologram
+Trying ('polygon', 'weather machine', 'astrolabe', 'hologram')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+take polygon
+take weather machine
+take astrolabe
+take mouse
+Trying ('polygon', 'weather machine', 'astrolabe', 'mouse')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+drop mouse
+take polygon
+take weather machine
+take prime number
+take hologram
+Trying ('polygon', 'weather machine', 'prime number', 'hologram')
+east
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+take polygon
+take weather machine
+take prime number
+take mouse
+Trying ('polygon', 'weather machine', 'prime number', 'mouse')
+east
+drop polygon
+drop weather machine
+drop prime number
+drop mouse
+take polygon
+take weather machine
+take hologram
+take mouse
+Trying ('polygon', 'weather machine', 'hologram', 'mouse')
+east
+drop polygon
+drop weather machine
+drop hologram
+drop mouse
+take polygon
+take astrolabe
+take prime number
+take hologram
+Trying ('polygon', 'astrolabe', 'prime number', 'hologram')
+east
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+take polygon
+take astrolabe
+take prime number
+take mouse
+Trying ('polygon', 'astrolabe', 'prime number', 'mouse')
+east
+drop polygon
+drop astrolabe
+drop prime number
+drop mouse
+take polygon
+take astrolabe
+take hologram
+take mouse
+Trying ('polygon', 'astrolabe', 'hologram', 'mouse')
+east
+drop polygon
+drop astrolabe
+drop hologram
+drop mouse
+take polygon
+take prime number
+take hologram
+take mouse
+Trying ('polygon', 'prime number', 'hologram', 'mouse')
+east
+drop polygon
+drop prime number
+drop hologram
+drop mouse
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take astrolabe
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'astrolabe')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take prime number
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+drop hologram
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'weather machine', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take weather machine
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take prime number
+take hologram
+Trying ('space law space brochure', 'polygon', 'weather machine', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+take space law space brochure
+take polygon
+take weather machine
+take prime number
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop prime number
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'polygon', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take polygon
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'polygon', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take polygon
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take prime number
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe', 'prime number')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take hologram
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe', 'hologram')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe', 'mouse')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop mouse
+take manifold
+take polygon
+take weather machine
+take prime number
+take hologram
+Trying ('manifold', 'polygon', 'weather machine', 'prime number', 'hologram')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+take manifold
+take polygon
+take weather machine
+take prime number
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'prime number', 'mouse')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+drop mouse
+take manifold
+take polygon
+take weather machine
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'hologram', 'mouse')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop hologram
+drop mouse
+take manifold
+take polygon
+take astrolabe
+take prime number
+take hologram
+Trying ('manifold', 'polygon', 'astrolabe', 'prime number', 'hologram')
+east
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+take manifold
+take polygon
+take astrolabe
+take prime number
+take mouse
+Trying ('manifold', 'polygon', 'astrolabe', 'prime number', 'mouse')
+east
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+drop mouse
+take manifold
+take polygon
+take astrolabe
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'astrolabe', 'hologram', 'mouse')
+east
+drop manifold
+drop polygon
+drop astrolabe
+drop hologram
+drop mouse
+take manifold
+take polygon
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'prime number', 'hologram', 'mouse')
+east
+drop manifold
+drop polygon
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('manifold', 'weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take manifold
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('manifold', 'weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take manifold
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('manifold', 'weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take manifold
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop manifold
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop manifold
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('polygon', 'weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('polygon', 'weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take polygon
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('polygon', 'weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take polygon
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('polygon', 'weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take polygon
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('polygon', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take weather machine
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('weather machine', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take prime number
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'astrolabe', 'prime number')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'astrolabe', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'astrolabe', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take weather machine
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'weather machine', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take manifold
+take polygon
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take polygon
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take weather machine
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'weather machine', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('polygon', 'weather machine', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take hologram
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'hologram')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'astrolabe', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop astrolabe
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take weather machine
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'weather machine', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop weather machine
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take polygon
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'polygon', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop polygon
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take manifold
+take weather machine
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'manifold', 'weather machine', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop manifold
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take space law space brochure
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('space law space brochure', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
+drop space law space brochure
+drop polygon
+drop weather machine
+drop astrolabe
+drop prime number
+drop hologram
+drop mouse
+take manifold
+take polygon
+take weather machine
+take astrolabe
+take prime number
+take hologram
+take mouse
+Trying ('manifold', 'polygon', 'weather machine', 'astrolabe', 'prime number', 'hologram', 'mouse')
+east
