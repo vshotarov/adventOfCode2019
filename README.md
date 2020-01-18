@@ -3,6 +3,8 @@ Although I have used python 3 for some of them, I've not used any backwards inco
 
 After all, AoC 2019 took place literally in the last month before Python 2 reached it's end of life.
 
+![Screenshot of the final look of my Advent of Code 2019](AoC_2019.png)
+
 ### Reflections
 #### Ones I struggled with
 I am happy I was able to solve almost all of the tasks without having to look for help. The two that I had to look up are:
